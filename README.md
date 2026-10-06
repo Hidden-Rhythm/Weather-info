@@ -128,7 +128,7 @@ Dashboard
 
 ```bash
 git clone https://github.com/Hidden-Rhythm/Weather-info.git
-cd Weather
+cd Weather-info
 ```
 
 ### 2. Install dependencies
