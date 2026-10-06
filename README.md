@@ -127,7 +127,7 @@ Dashboard
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Hidden-Rhythm/Weather.git
+git clone https://github.com/Hidden-Rhythm/Weather-info.git
 cd Weather
 ```
 
